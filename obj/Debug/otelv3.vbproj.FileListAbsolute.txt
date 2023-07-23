@@ -1,0 +1,16 @@
+C:\Users\musta\source\repos\otelv3\otelv3\bin\Debug\otelv3.exe.config
+C:\Users\musta\source\repos\otelv3\otelv3\bin\Debug\otelv3.exe
+C:\Users\musta\source\repos\otelv3\otelv3\bin\Debug\otelv3.pdb
+C:\Users\musta\source\repos\otelv3\otelv3\bin\Debug\otelv3.xml
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.vbproj.AssemblyReference.cache
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.FrmAnaForm.resources
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.FrmOdalar.resources
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.FrmYeniMusteri.resources
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.Resources.resources
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.vbproj.GenerateResource.cache
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.vbproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.exe
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.xml
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.pdb
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.FrmAdminGiris.resources
+C:\Users\musta\source\repos\otelv3\otelv3\obj\Debug\otelv3.FrmMusteriler.resources
